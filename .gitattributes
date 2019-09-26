@@ -2,5 +2,5 @@
 *.css linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
-*.php linguist-language=Laravel
+modules/* linguist-language=Laravel
 CHANGELOG.md export-ignore
